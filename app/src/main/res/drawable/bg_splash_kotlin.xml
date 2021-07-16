@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/white" />
+    <item
+        android:gravity="center"
+        android:width="300dp"
+        android:height="300dp">
+        <bitmap
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_kotlin_static" />
+    </item>
+    <item
+        android:gravity="bottom|center_horizontal"
+        android:width="200dp"
+        android:height="100dp"
+        android:bottom="30dp">
+        <bitmap android:alpha="0.7"
+            android:src="@drawable/ic_branding"/>
+    </item>
+</layer-list>
