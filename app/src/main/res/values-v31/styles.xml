@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_secondary</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="android:windowSplashScreenBackground">@color/black900</item>
+
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_kotlin_animated</item>
+        <item name="android:windowSplashScreenAnimationDuration">@integer/icon_animator_duration</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_branding</item>
+    </style>
+
+</resources>
