@@ -90,3 +90,4 @@ hs_err_pid*
 .idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_20.xml
 .idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_20.xml
 .idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_0.xml
+.idea/assetWizardSettings.xml
